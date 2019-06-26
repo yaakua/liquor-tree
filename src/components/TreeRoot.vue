@@ -135,7 +135,7 @@
   }
 </script>
 
-<style>
+<style scoped>
   .tree {
     overflow: auto;
   }

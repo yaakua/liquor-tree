@@ -200,7 +200,7 @@
   export default TreeNode
 </script>
 
-<style>
+<style scoped>
   .tree-node {
     white-space: nowrap;
     display: flex;

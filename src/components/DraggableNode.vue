@@ -20,7 +20,7 @@
   }
 </script>
 
-<style>
+<style scoped>
   .tree-dragnode {
     padding: 10px;
     border: 1px solid #e7eef7;
